@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Resume</title>
+  <style>
+    html, body {
+      margin: 0;
+      height: 100%;
+      overflow: hidden;
+    }
+    iframe {
+      width: 100vw;
+      height: 100vh;
+      border: none;
+    }
+  </style>
+</head>
+<body>
+ <!-- Enter Your Updated PDF Below in Src="""-->
+  <iframe
+    src="Peter J. Rafert - Resumé (Revised 05-24-2023).pdf"
+    allowfullscreen>
+  </iframe>
+</body>
+</html>
